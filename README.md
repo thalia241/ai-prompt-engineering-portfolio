@@ -131,4 +131,4 @@ Interested in hiring me or collaborating on AI prompt design, LLM workflows, or 
 
 ---
 
-© 2025 – Prompt Engineering Portfolio by CHarity Deel.
+© 2025 – Prompt Engineering Portfolio by Charity Deel.
